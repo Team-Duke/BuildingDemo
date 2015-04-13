@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BuildingDemo</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="title_activity_abbey_window">AbbeyWindow</string>
+    <string name="action_settings">Settings</string>
+    <string name="abbey_text">Abbey Building</string>
+    <string name="abbey_room_info">Building Floor Room \n +
+                    A        1      01   -     A         1     14  \n +
+                    A        2      01   -     A         2     14  \n +
+                    A        3      01   -     A         3     14  \n +
+                    A        4      01   -     A         4     14 \n
+        \n
+        Eating Area
+        \n
+        Yes, Blackfriars Restaurant.
+        \n
+        \n
+        Study Area
+        \n
+        N/A
+    </string>
+
+</resources>
